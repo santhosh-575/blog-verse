@@ -16,3 +16,7 @@ let person = {
     id : 75
 }
 console.log(person.name)
+console.log(person.id)
+console.log(person["name"])
+console.log(person["id"])
+console.log(typeof person)
